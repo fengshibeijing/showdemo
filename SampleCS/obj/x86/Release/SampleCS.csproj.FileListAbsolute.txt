@@ -1,0 +1,10 @@
+E:\刁鹏飞\For Pengfei\ViD SDK\source\SampleCS\Release\SampleCS.exe
+E:\刁鹏飞\For Pengfei\ViD SDK\source\SampleCS\Release\SampleCS.pdb
+E:\刁鹏飞\For Pengfei\ViD SDK\source\SampleCS\obj\x86\Release\SampleCS.exe
+E:\刁鹏飞\For Pengfei\ViD SDK\source\SampleCS\obj\x86\Release\SampleCS.pdb
+F:\SampleCS\obj\x86\Release\SampleCS.exe
+F:\SampleCS\obj\x86\Release\SampleCS.pdb
+F:\SampleCS\Release\SampleCS.exe
+F:\SampleCS\Release\SampleCS.pdb
+F:\SampleCS\obj\x86\Release\SampleCS.Form1.resources
+F:\SampleCS\obj\x86\Release\SampleCS.csproj.GenerateResource.Cache

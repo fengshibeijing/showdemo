@@ -1,0 +1,13 @@
+E:\刁鹏飞\For Pengfei\ViD SDK\source\SampleCS\Debug\SampleCS.exe
+E:\刁鹏飞\For Pengfei\ViD SDK\source\SampleCS\Debug\SampleCS.pdb
+E:\刁鹏飞\For Pengfei\ViD SDK\source\SampleCS\obj\x86\Debug\SampleCS.exe
+E:\刁鹏飞\For Pengfei\ViD SDK\source\SampleCS\obj\x86\Debug\SampleCS.pdb
+E:\刁鹏飞\For Pengfei\ViD SDK\source\SampleCS\obj\x86\Debug\SampleCS.csprojResolveAssemblyReference.cache
+F:\SampleCS\obj\x86\Debug\SampleCS.exe
+F:\SampleCS\obj\x86\Debug\SampleCS.pdb
+F:\SampleCS\Debug\SampleCS.exe
+F:\SampleCS\Debug\SampleCS.pdb
+F:\SampleCS\obj\x86\Debug\SampleCS.csprojResolveAssemblyReference.cache
+F:\SampleCS\obj\x86\Debug\SampleCS.Form1.resources
+F:\SampleCS\obj\x86\Debug\SampleCS.csproj.GenerateResource.Cache
+F:\SampleCS\obj\x86\Debug\SampleCS.Properties.Resources.resources
